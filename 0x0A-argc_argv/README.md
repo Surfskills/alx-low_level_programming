@@ -6,9 +6,7 @@ If you rename the program, it will print the new name, without having to compile
 
 1-args.c
 
-A program that prints the number of arguments passed into it.
-
-Your program should print a number, followed by a new line
+A program that prints the number of arguments passed into it followed by a new line
 
 2-args.c
 
